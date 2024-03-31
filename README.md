@@ -97,20 +97,20 @@
 
 ## Acesso
 
-<p>Tá esperando o que ?! Veja e teste da maneira que achar melhor, acesse o site por https://gabrielferreirajorge.github.io/Controle-de-metas/, e navegue do jeito que achar melhor, se tiver alguma ideia de algo que possa ser melhorado não hesite em falar, ainda estou aprendendo e querendo melhorar então sinta-se a vontade para dar opiniões.</p>
+<p>Tá esperando o que ?! Veja e teste da maneira que achar melhor, acesse o site por https://gabrielfj08.github.io/Controle-de-Metas/, e navegue do jeito que achar melhor, se tiver alguma ideia de algo que possa ser melhorado não hesite em falar, ainda estou aprendendo e querendo melhorar então sinta-se a vontade para dar opiniões.</p>
 <p>Caso tenha alguma dúvida com relação de quais foram meus códigos, tenho eles disponiveis no repositório:</p>
 
 - CSS:
-> https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/style.css
+> https://github.com/gabrielfj08/Controle-de-Metas/blob/main/style.css
 - JAVASCRIPT:
-> https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/script.js
+> https://github.com/gabrielfj08/Controle-de-Metas/blob/main/script.js
 - HTML:
-> [inicio] https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/index.html;<br>
-> [curso-alura] https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/curso-alura.html;<br>
-> [projeto-javascript] https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/projeto-javascript.html;<br>
-> [intercambio] https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/intercambio.html;<br>
-> [curriculo] https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/curriculo.html;<br>
-> [sua-vez] https://github.com/GabrielferreiraJorge/Controle-de-metas/blob/main/user.html<br>
+> [inicio] https://github.com/gabrielfj08/Controle-de-Metas/blob/main/index.html;<br>
+> [curso-alura] https://github.com/gabrielfj08/Controle-de-Metas/blob/main/curso-alura.html;<br>
+> [projeto-javascript] https://github.com/gabrielfj08/Controle-de-Metas/blob/main/projeto-javascript.html;<br>
+> [intercambio] https://github.com/gabrielfj08/Controle-de-Metas/blob/main/intercambio.html;<br>
+> [curriculo] https://github.com/gabrielfj08/Controle-de-Metas/blob/main/curriculo.html;<br>
+> [sua-vez] https://github.com/gabrielfj08/Controle-de-Metas/blob/main/user.html<br>
 
 <hr>
 
